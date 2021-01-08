@@ -1,7 +1,7 @@
 
 let spnText = document.querySelector('.text');
 const spnCursor = document.querySelector('.cursor');
-const txt = ['Hi !', " It's good that you are here :)",'My name is Marek Zemla, and I am a JavaScript developer...','Continue on to my website to see my offer...', " Let's start!"]
+const txt = ['Hi !', " It's good that you are here :)",'My name is Marek Zemla, and I am a JavaScript developer...','Continue on to my website to see what I can  do for you...', " Let's start!"]
 let activeLetter = -10;
 let activeText = 0;
 

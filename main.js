@@ -5,7 +5,6 @@ const txt = ['Hi !', " It's good that you are here :)",'My name is Marek Zemla, 
 let activeLetter = -10;
 let activeText = 0;
 
-
 const addLetter = () => {
     if(activeLetter >= 0){
     spnText.textContent += txt[activeText][activeLetter];}
